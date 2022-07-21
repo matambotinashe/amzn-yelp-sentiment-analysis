@@ -1,7 +1,8 @@
-# Embedding Model
-- In this branch we explore just using a embedding layer onto our model and changing the following hyperparameter amoung other things 
-  a. embedding dimensions, 
-  b. maximum length of sequence
-  c. vocabulary size
-  d. replacing the flattern layer with the GlobalAveragePooling
+# Embedding Model using sub-words
+- In this branch we explore just using sub words in our model that uses an embedding layer.
+- We will still play around with the following hyperparameters 
+  - embedding dimensions 
+  - maximum length of sequence
+  - vocabulary size
+  - replacing the Flattern layer with the GlobalAveragePooling layer
  
