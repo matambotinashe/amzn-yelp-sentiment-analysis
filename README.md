@@ -1,4 +1,4 @@
-# amzn-yelp-sentiment-analysis
+# Embedding Model
 - In this branch we explore just using a embedding layer onto our model and changing the following hyperparameter amoung other things 
   a. embedding dimensions, 
   b. maximum length of sequence
